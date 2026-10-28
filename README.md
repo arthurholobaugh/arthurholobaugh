@@ -36,3 +36,23 @@ Accessible shopping experience focused on intuitive product discovery, side-by-s
 Involved with Nebula Labs, a UT Dallas student organization developing software for students. Explore projects such as [UTD Clubs](https://github.com/UTDNebula/utd-clubs) and [Skedge](https://github.com/UTDNebula/skedge).
 
 **Project tech:** Next.js · TypeScript · React
+
+---
+
+## Technical Skills
+
+**Programming:** `Java` · `Python` · `JavaScript` · `C++` · `SQL` · `HTML`
+
+**Frontend:** `React` · `Vite`
+
+**Data & AI:** `Pandas` · `Scikit-learn` · `XGBoost`
+
+**Design & Development:** `Figma` · `FigJam` · `Git` · `GitHub` · `VS Code`
+
+## Product Management
+
+- **Product Discovery:** User Research · Customer Interviews · Needfinding · Market Research
+- **Strategy & Planning:** Product Strategy · Requirements Gathering · Feature Prioritization · Agile Methodologies
+- **Design & Validation:** UI/UX Prototyping · Usability Testing
+- **Collaboration & Decisions:** Cross-functional Collaboration · Stakeholder Communication · Data-driven Decision Making
+
