@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="275" viewBox="0 0 1200 275" role="img" aria-labelledby="title desc">
+<title id="title">Product and Engineering</title>
+<desc id="desc">A dark indigo technical banner with clean aqua and lavender accents, reading Product x Engineering and Building technology around real user needs.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0a1429"/>
+    <stop offset="52%" stop-color="#101b37"/>
+    <stop offset="100%" stop-color="#192453"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#56e0ce"/>
+    <stop offset="100%" stop-color="#a99af8"/>
+  </linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#c1ccff" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="1200" height="275" rx="18" fill="url(#background)"/>
+<rect width="1200" height="275" rx="18" fill="url(#grid)"/>
+<rect x="58" y="52" width="6" height="35" rx="3" fill="url(#accent)"/>
+<text x="82" y="73" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#a6b7d4">CS @ UT DALLAS</text>
+<text x="58" y="155" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="750" letter-spacing="1" fill="#ffffff">PRODUCT <tspan fill="#65decb">×</tspan> ENGINEERING</text>
+<text x="60" y="199" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#d4ddf5">Building technology around real user needs.</text>
+<path d="M 60 226 H 615" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<g fill="none" stroke="#69decd" stroke-width="2" stroke-opacity=".65">
+  <rect x="903" y="58" width="198" height="152" rx="18"/>
+  <path d="M 932 174 L 972 134 L 1009 152 L 1059 101"/>
+  <circle cx="932" cy="174" r="5" fill="#67dfcc"/>
+  <circle cx="972" cy="134" r="5" fill="#67dfcc"/>
+  <circle cx="1009" cy="152" r="5" fill="#67dfcc"/>
+  <circle cx="1059" cy="101" r="5" fill="#a99af8"/>
+</g>
+<rect x="951" y="32" width="80" height="27" rx="13" fill="#273863" stroke="#a99af8" stroke-opacity=".4"/>
+<text x="991" y="50" fill="#dcd6ff" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" letter-spacing="1">RESEARCH</text>
+<rect x="1071" y="202" width="93" height="27" rx="13" fill="#193e4a" stroke="#65decb" stroke-opacity=".45"/>
+<text x="1117" y="220" fill="#a9fff0" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" letter-spacing="1">BUILD</text>
+<circle cx="1144" cy="46" r="6" fill="#a99af8"/>
+<circle cx="1156" cy="78" r="3" fill="#65decb"/>
+</svg>
