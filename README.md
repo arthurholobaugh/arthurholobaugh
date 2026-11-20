@@ -38,11 +38,11 @@ AI-powered product intelligence platform in development, designed to help Amazon
 
 **Tech:** Python & JavaScript; React/Streamlit, FastAPI, and machine learning *(planned)*
 
-### [Shopping Hub](https://github.com/arthurholobaugh/ShoppingHub)  
-![React](https://img.shields.io/badge/React-087ea4?style=flat-square) ![Human-Centered Design](https://img.shields.io/badge/Human--Centered_Design-6654a4?style=flat-square)
-Accessible shopping experience focused on intuitive product discovery, side-by-side comparison, and informed buying decisions.
+### Artificial Intelligence Society (AIS) | UT Dallas  
+![AI & Data](https://img.shields.io/badge/Applied_AI-243b69?style=flat-square) ![Business Strategy](https://img.shields.io/badge/Business_Strategy-137c79?style=flat-square)  
+Working with the Artificial Intelligence Society on MarketLens, a student project exploring how AI, market research, and financial forecasting can help businesses evaluate product opportunities.
 
-**Tech:** React · JavaScript · Vite
+**Focus:** Product analysis · Market research · AI-assisted decision-making
 
 ### [Nebula Labs](https://github.com/UTDNebula)  
 ![Product Management](https://img.shields.io/badge/Product_Management-243b69?style=flat-square) ![UT Dallas](https://img.shields.io/badge/UT_Dallas-b85c35?style=flat-square)
