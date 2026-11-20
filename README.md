@@ -42,16 +42,20 @@ MarketLens helps Amazon sellers make more informed product launch decisions by b
 **Tech:** React · JavaScript · Python · FastAPI · XGBoost · Firebase
 
 ### Artificial Intelligence Society (AIS) | UT Dallas  
-![AI & Data](https://img.shields.io/badge/Applied_AI-243b69?style=flat-square) ![Business Strategy](https://img.shields.io/badge/Business_Strategy-137c79?style=flat-square)  
-Working with the Artificial Intelligence Society on MarketLens, a student project exploring how AI, market research, and financial forecasting can help businesses evaluate product opportunities.
+![Applied AI](https://img.shields.io/badge/Applied_AI-243b69?style=flat-square) ![Business Strategy](https://img.shields.io/badge/Business_Strategy-137c79?style=flat-square)
 
-**Focus:** Product analysis · Market research · AI-assisted decision-making
+Through the Artificial Intelligence Society at UT Dallas, I collaborate on projects that explore how AI can solve business problems and support better decision-making. My work on MarketLens focuses on connecting market analysis, financial forecasting, and product strategy to help businesses evaluate new opportunities.
+
+**Focus:** Business Intelligence · Product Strategy · AI-Driven Decision-Making
 
 ### [Nebula Labs](https://github.com/UTDNebula)  
-![Product Management](https://img.shields.io/badge/Product_Management-243b69?style=flat-square) ![UT Dallas](https://img.shields.io/badge/UT_Dallas-b85c35?style=flat-square)
-Involved with Nebula Labs, a UT Dallas student organization developing software for students. Explore projects such as [UTD Clubs](https://github.com/UTDNebula/utd-clubs) and [Skedge](https://github.com/UTDNebula/skedge).
+![Product Management](https://img.shields.io/badge/Product_Management-243b69?style=flat-square) ![Cross-functional Leadership](https://img.shields.io/badge/Cross--functional_Leadership-4a607d?style=flat-square)
 
-**Project tech:** Next.js · TypeScript · React
+As a product manager at Nebula Labs, a student-run organization at UT Dallas, I collaborate with engineering and design teams to develop digital products for the university community. My work focuses on identifying user needs, evaluating product opportunities, prioritizing features, and aligning product decisions with user impact and technical feasibility.
+
+**Focus:** Product Strategy · Feature Prioritization · Cross-functional Collaboration
+
+**Projects:** [UTD Trends](https://github.com/UTDNebula/utd-trends) · [UTD Clubs](https://github.com/UTDNebula/utd-clubs)
 
 ---
 
