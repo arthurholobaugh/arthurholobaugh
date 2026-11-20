@@ -33,10 +33,11 @@
 A selection of projects at the intersection of software development, product thinking, and user experience.
 
 ### [MarketLens](https://github.com/arthurholobaugh/marketlens)  
-![AI & Data](https://img.shields.io/badge/AI_%26_Data-243b69?style=flat-square) ![In Development](https://img.shields.io/badge/In_Development-687289?style=flat-square)
-AI-powered product intelligence platform for Amazon sellers, with a React interface, product opportunity scoring, and financial forecasting. The project includes machine-learning models, FastAPI services, and Firebase authentication to help users assess potential product launches.
+![Product Intelligence](https://img.shields.io/badge/Product_Intelligence-243b69?style=flat-square) ![Business Strategy](https://img.shields.io/badge/Business_Strategy-137c79?style=flat-square)
 
-**Current stage:** Working development prototype; forecasting uses simulated sales data, and real-world prediction accuracy has not yet been established.
+MarketLens helps Amazon sellers make more informed product launch decisions by bringing market analysis, AI-powered opportunity scoring, and financial forecasting into one platform. It helps users evaluate product potential, compare opportunities, and explore projected sales and profitability before committing resources.
+
+**Product value:** Smarter product selection · Clearer financial planning · More confident launch decisions
 
 **Tech:** React · JavaScript · Python · FastAPI · XGBoost · Firebase
 
