@@ -6,16 +6,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Product_Management-243b69?style=flat-square" alt="Product Management" />
-  <img src="https://img.shields.io/badge/Software_Development-137c79?style=flat-square" alt="Software Development" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-6654a4?style=flat-square" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Business_Strategy-137c79?style=flat-square" alt="Business Strategy" />
+  <img src="https://img.shields.io/badge/Software_Development-6654a4?style=flat-square" alt="Software Development" />
 </p>
 
 <p align="center">
-  Product-minded developer building software that makes complex decisions simpler.
+  Computer science student interested in the intersection of technology, business strategy, and product development.
 </p>
 
 <p align="center">
-  Interested in frontend development, product management, and creating intuitive digital experiences.
+  Passionate about understanding user needs, solving real-world problems, and building products that make a difference.
 </p>
 
 <p align="center">
@@ -69,11 +69,17 @@ Involved with Nebula Labs, a UT Dallas student organization developing software 
 
 ## Product Management
 
-![Research](https://img.shields.io/badge/Discover-243b69?style=flat-square) ![Prioritize](https://img.shields.io/badge/Prioritize-137c79?style=flat-square) ![Design](https://img.shields.io/badge/Design-6654a4?style=flat-square) ![Collaborate](https://img.shields.io/badge/Collaborate-4a607d?style=flat-square)
+
+![Research](https://img.shields.io/badge/Research-243b69?style=flat-square)
+![Strategy](https://img.shields.io/badge/Strategy-137c79?style=flat-square)
+![Prioritization](https://img.shields.io/badge/Prioritization-6654a4?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Collaboration-4a607d?style=flat-square)
 
 
-- **Product Discovery:** User Research · Customer Interviews · Needfinding · Market Research
-- **Strategy & Planning:** Product Strategy · Requirements Gathering · Feature Prioritization · Agile Methodologies
-- **Design & Validation:** UI/UX Prototyping · Usability Testing
-- **Collaboration & Decisions:** Cross-functional Collaboration · Stakeholder Communication · Data-driven Decision Making
+
+- **Product Discovery:** User Research · Market Research · Problem Identification · Opportunity Assessment
+- **Strategy & Planning:** Product Strategy · Requirements Gathering · Feature Prioritization · Roadmapping
+- **Product Development:** Prototyping · User Feedback · Usability Evaluation · Iterative Improvement
+- **Collaboration & Decision-Making:** Cross-functional Collaboration · Stakeholder Communication · Data-driven Decision Making
+
 
