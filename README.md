@@ -34,9 +34,11 @@ A selection of projects at the intersection of software development, product thi
 
 ### [MarketLens](https://github.com/arthurholobaugh/marketlens)  
 ![AI & Data](https://img.shields.io/badge/AI_%26_Data-243b69?style=flat-square) ![In Development](https://img.shields.io/badge/In_Development-687289?style=flat-square)
-AI-powered product intelligence platform in development, designed to help Amazon sellers evaluate demand, competition, profitability, and launch risks.
+AI-powered product intelligence platform for Amazon sellers, with a React interface, product opportunity scoring, and financial forecasting. The project includes machine-learning models, FastAPI services, and Firebase authentication to help users assess potential product launches.
 
-**Tech:** Python & JavaScript; React/Streamlit, FastAPI, and machine learning *(planned)*
+**Current stage:** Working development prototype; forecasting uses simulated sales data, and real-world prediction accuracy has not yet been established.
+
+**Tech:** React · JavaScript · Python · FastAPI · XGBoost · Firebase
 
 ### Artificial Intelligence Society (AIS) | UT Dallas  
 ![AI & Data](https://img.shields.io/badge/Applied_AI-243b69?style=flat-square) ![Business Strategy](https://img.shields.io/badge/Business_Strategy-137c79?style=flat-square)  
